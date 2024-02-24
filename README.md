@@ -411,6 +411,19 @@ The code of TNCR is Open Source under the [MIT License](LICENSE). There is no li
 ## Cite as
 If you find this work useful for your research, please cite our paper:
 ```
+@misc{https://doi.org/10.48550/arxiv.2211.08469,
+  doi = {10.48550/ARXIV.2211.08469},
+  url = {https://arxiv.org/abs/2211.08469},
+  author = {Kasem, Mahmoud and Abdallah, Abdelrahman and Berendeyev, Alexander and Elkady, Ebrahem and Abdalla, Mahmoud and Mahmoud, Mohamed and Hamada, Mohamed and Nurseitov, Daniyar and Taj-Eddin, Islam},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Deep learning for table detection and structure recognition: A survey},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+
+```
+```
 @article{ABDALLAH2021,
 title = {TNCR: Table Net Detection and Classification Dataset},
 journal = {Neurocomputing},
@@ -422,6 +435,7 @@ author = {Abdelrahman Abdallah and Alexander Berendeyev and Islam Nuradin and Da
 keywords = {Deep learning, Convolutional neural networks, Image processing, Document processing, Table detection, Page object detection},
 abstract = {We present TNCR, a new table dataset with varying image quality collected from open access websites. TNCR dataset can be used for table detection in scanned document images and their classification into 5 different classes. TNCR contains 9428 labeled tables with approximately 6621 images . In this paper, we have implemented state-of-the-art deep learning-based methods for table detection to create several strong baselines. Deformable DERT with Resnet-50 Backbone Network achieves the highest performance compared to other methods with a precision of 86.7%, recall of 89.6%, and f1 score of 88.1% on the TNCR dataset. We have made TNCR open source in the hope of encouraging more deep learning approaches to table detection, classification and structure recognition. The dataset and trained model checkpoints are available at https://github.com/abdoelsayed2016/TNCR_Dataset.}
 }
+```
 ```
 
 
